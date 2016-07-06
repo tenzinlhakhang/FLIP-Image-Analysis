@@ -19,4 +19,5 @@ Control Signal
 
 Real IP signal
 
-<img width="643" alt="screen shot 2016-07-06 at 12 54 35 pm" src="https://cloud.githubusercontent.com/assets/7875127/16626891/dbb701a4-4378-11e6-9ced-cc8a95f7ed6f.png">
+
+<img width="670" alt="screen shot 2016-07-06 at 12 56 24 pm" src="https://cloud.githubusercontent.com/assets/7875127/16626945/11cd0702-4379-11e6-8deb-8c8fea8f21fc.png">

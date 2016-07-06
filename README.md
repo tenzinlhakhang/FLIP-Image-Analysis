@@ -13,11 +13,4 @@ Software Pipeline
 <img width="740" alt="screen shot 2016-07-06 at 12 50 30 pm" src="https://cloud.githubusercontent.com/assets/7875127/16626792/772a8ac6-4378-11e6-9c61-44dce7ed2632.png">
 
 
-Control Signal
-
-<img width="724" alt="screen shot 2016-07-06 at 12 49 53 pm" src="https://cloud.githubusercontent.com/assets/7875127/16626785/71f6036e-4378-11e6-8eba-05794dbb676d.png">
-
-Real IP signal
-
-
-<img width="670" alt="screen shot 2016-07-06 at 12 56 24 pm" src="https://cloud.githubusercontent.com/assets/7875127/16626945/11cd0702-4379-11e6-8deb-8c8fea8f21fc.png">
+<img width="762" alt="screen shot 2016-07-06 at 12 59 42 pm" src="https://cloud.githubusercontent.com/assets/7875127/16627058/8f7d378a-4379-11e6-8b90-bf6e050fcd75.png">
